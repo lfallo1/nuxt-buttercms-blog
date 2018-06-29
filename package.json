@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-buttercms-blog",
+  "version": "1.0.0",
+  "description": "nuxt buttercms blog",
+  "author": "Lance Fallon",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "bootstrap": "^4.0.0-beta.2",
+    "bootstrap-vue": "^1.0.2",
+    "buttercms": "^1.1.1",
+    "nuxt": "^1.0.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1"
+  }
+}
